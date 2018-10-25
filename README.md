@@ -1,2 +1,2 @@
 # gittest
-添加了一个readme
+添加了一个readme文件
